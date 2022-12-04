@@ -6,6 +6,7 @@ import Activities from './pages/Activities/Activities';
 import Header from './Components/Header/Header';
 import Footer from './Components/Footer/Footer';
 import Contacts from './pages/Contacts/Contacts';
+import './App.css'
 
 const App = () => {
   return (
